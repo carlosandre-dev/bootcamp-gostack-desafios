@@ -17,4 +17,4 @@ Consiste em criar um cronograma de estudos semanal e diário, com o objetivo de 
 
 ---
 
-Feito com :heart: por **Carlos André**
+Feito com :heart: por [Carlos André](https://www.linkedin.com/in/carlos-andr%C3%A9-984a2261/)
