@@ -1,4 +1,4 @@
-<img src="https://ik.imagekit.io/geek/pexels-kevin-ku-577585_CGepvXbEIn.jpg">
+<img src="https://ik.imagekit.io/geek/pexels-kevin-ku-577585__1__7IJX6s8l2.jpg">
 
 # :rocket: Bootcamp GoStack 13 
 
